@@ -5,7 +5,7 @@
   <title>Parent - Home page</title>
   <link rel="icon" href="img/icon.ico">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+  <script src="https://kit.fontawesome.com/716ec48d60.js" crossorigin="anonymous"></script>
   <link rel="stylesheet" href="./style.css">
 </head>
 

@@ -12,7 +12,7 @@
 <body>
 
 <nav>
-  <img class="logo" src="tn.jpg"/>
+  <img class="logo" src="img/tn.jpg"/>
   <p>République Tunisienne<br>Ministère de l'Enseignement Supérieur et de la Recherche Scientifique</p>
 </nav>
 <h1>Parent space</h1>

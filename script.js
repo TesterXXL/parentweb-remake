@@ -9,7 +9,6 @@ function rotate(element, deg) {
     home();
 })();
 function home() {
-    if(!location.pathname == '') return;
     Hometabs();
     homeButton();
 }

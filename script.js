@@ -49,6 +49,7 @@ function homeButton() {
       document.querySelector('.content-main').parentNode.removeChild(document.querySelector('.content-main'));
       document.querySelector('.sections').style.display = '';
     }
+ document.querySelector('title').innerHTML = 'Parent - Home page';
   }); 
 }
 function divTab() {
